@@ -1,0 +1,7 @@
+Evaluating expressions
+
+- Quick Evaluate Expression
+- Evaluate Expression
+- Side Effects!
+- Try to debug a stream
+- Stream Debugger
