@@ -18,3 +18,19 @@
 - IntelliJ in presentation mode
 
 - Explain WHY hot code swapping + dropping frames & remote debugging is useful!!!
+
+
+
+Introduction story
+
+Hello everybody. Welcome. Very nice of you to join this session.
+
+I would like to start with a story today. Once upon a time there was a developer. He had about 10/15 years of experience.
+He was happily coding away, until he noticed something. He noticed that the debugger had become an important tool in his
+toolbox. This while he was only scratching the proverbial tip of the iceberg. So he decided to become better at using the
+debugger. To explore the part of the iceberg under the surface. He read a lot of articles and blogs, watched YouTube
+videos and just started playing in het IDE with all the options of the debugger. He learned a lot in his journey and
+decided to create a presentation. This presentation.
+
+My name is Bouke Nijhuis, I am the CTO at CINQ ICT and you can easily reach me on Twitter on the handle currently on the
+screen. The topic of today is improving your skills with debugger.
