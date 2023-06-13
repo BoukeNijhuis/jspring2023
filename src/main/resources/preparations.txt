@@ -23,7 +23,7 @@
 
 Introduction story
 
-Hello everybody. Welcome. Very nice of you to join this session.
+Hello everybody. Welcome. Thank you for joining this session.
 
 I would like to start with a story today. Once upon a time there was a developer. He had about 10/15 years of experience.
 He was happily coding away, until he noticed something. He noticed that the debugger had become an important tool in his
